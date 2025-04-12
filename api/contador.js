@@ -14,7 +14,7 @@ module.exports = async (req, res) => {
 
   const svg = `
   <svg xmlns="http://www.w3.org/2000/svg" width="322" height="86">
-    <image href="https://github.com/je-morales/counter/blob/main/contador.png" x="0" y="0" height="86" width="322"/>
+    <image href="https://raw.githubusercontent.com/je-morales/counter/refs/heads/main/contador.png" x="0" y="0" height="86" width="322"/>
     <style>
       .number { font-family: 'Poppins', sans-serif; font-weight: bold; font-size: 35px; fill: #004951; }
     </style>
